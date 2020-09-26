@@ -1,0 +1,6 @@
+(Json Formatter)
+- used to format JSON API files in browser
+
+
+(HTML formater website: htmlformatter.com)
+- used to format messy html 

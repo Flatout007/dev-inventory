@@ -1,0 +1,26 @@
+(Async Functions)
+
+- Async Functions are used to consume and manage promise objects.
+
+- In JavaScript "async" is a keyword, its normally used in tandem with the "await" keyword.
+
+
+(Declare async functions)
+- insert "async" keyword before a function decleration. 
+Syntax: async function name() {}
+
+
+(Consume promise objects)
+- call a promise with the "await" keyword in front of the function or method call. 
+Syntax: await f(n)
+
+
+(Call async functions)
+- calling an async function is the same as any function. 
+Syntax: f()
+
+
+(Return values from async functions)
+- use "then() & catch" to return values from async functions. 
+Syntax: async function {return data}.then(callback(data){}).catch(e)
+

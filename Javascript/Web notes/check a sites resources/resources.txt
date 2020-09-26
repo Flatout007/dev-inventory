@@ -1,0 +1,10 @@
+(Check a Website's Resources)
+
+- checking a website's resources is useful for dermining what build tools a website is using.
+
+- Javascript developers find this extremely useful when determing a websites framework. 
+
+
+(Check resources)
+- simply go to dev tools, network, and reload page to see resources. Look for license agreements inside code
+ex: dev tools -&gt; Network -&gt; Reload page

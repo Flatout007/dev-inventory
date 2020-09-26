@@ -1,0 +1,5 @@
+
+(PHP coding standards fixer)
+- fixes code to php standards. run program on CLI & insert file path name. website: cs.sensiolabs.org
+ex: $ fix index.php
+  
